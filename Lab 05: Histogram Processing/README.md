@@ -9,7 +9,7 @@ Piece-wise linear transformation is usually used to process a histogram in a spe
 
 ### Contrast Stretching:
 Contrast stretching is a process which involves extending a range of input histogram to an output
-histogram using following formula:
+histogram using following formula: <br/>
 ![Alt text](https://github.com/talha3111997/Image_Processing/blob/master/Images/contrast%20stretching.JPG?raw=true "Contrast stretching formula")
 
 
